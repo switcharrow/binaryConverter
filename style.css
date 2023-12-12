@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box{
+    background-color: aliceblue;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.input{
+    margin: 20px;
+}
